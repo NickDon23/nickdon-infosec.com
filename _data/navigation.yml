@@ -1,6 +1,6 @@
 main:
-  - title: "Malware Reverse Engineering"
-    url: /Malware_Reverse_Engineering/
+  - title: "Reverse Engineering"
+    url: /Reverse_Engineering/
   - title: "Pentest Boxes"
     url: /Pentest_Boxes/
   - title: "Research"
