@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-layout: categories
+layout: single
 permalink: /Reverse_Engineering/
 author_profile: true
 ---
