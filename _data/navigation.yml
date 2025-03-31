@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Malware Reverse Engineering"
+    url: /Malware_Reverse_Engineering/
+  - title: "Pentest Boxes"
+    url: /Pentest_Boxes/
+  - title: "Research"
+    url: Research/
   - title: "About"
     url: /about/
