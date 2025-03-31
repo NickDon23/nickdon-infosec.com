@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+With a strong background in cybersecurity, cloud security, and threat detection, I specialize in incident response, malware analysis, and Red Team operations. My experience spans Azure, AWS, and on-prem environments, where I've helped organizations strengthen their security posture, detect advanced threats, and remediate cyber incidents.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Throughout my career, I’ve worked with leading security tools like CrowdStrike Falcon, SentinelOne, Elastic, Velociraptor, Hayabusa, Suricata, and Wireshark to investigate ransomware, data exfiltration, and IT misconfigurations. My expertise extends to reverse engineering malware, penetration testing, and cloud security compliance (DoD STIGs, NIST, ISO 27001/27002, ITAR).
+
+I thrive in fast-paced environments, managing high-priority security incidents, building custom detection rules, and securing enterprise networks. With a passion for continuous learning, I hold certifications including CISSP, CySA+, and multiple CrowdStrike certifications, and have participated in OSINT investigations to support real-world missing persons cases.
+
+Whether it's defending against cyber threats, optimizing security operations, or engaging in adversary simulation, I’m always eager to tackle new challenges.
+
+Let’s connect!
