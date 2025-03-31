@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Posts"
 layout: categories
-permalink: /categories/
+permalink: /Reverse_Engineering/
 author_profile: true
 ---
