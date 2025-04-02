@@ -113,7 +113,7 @@ defaults:
 
 Reverse_Engineering:
   type: liquid
-  path: /Reverse_Engineering/
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
