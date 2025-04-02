@@ -111,7 +111,7 @@ defaults:
       layout: single
       author_profile: true
 
-Reverse_Engineering:
+reverse_engineering:
   type: liquid
   path: /categories/
 tag_archive:
